@@ -1,0 +1,13 @@
+{
+    "name": "vendor/php-crossover",
+    "description": "Description of project PhpCrossover.",
+    "authors": [
+        {
+            "name": "hucak",
+            "email": "hasan.ucak@gmail.com"
+        }
+    ],
+   "require-dev": {
+        "phpunit/phpunit": "5.5.*"
+    }
+}
