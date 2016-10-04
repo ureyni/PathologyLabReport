@@ -103,3 +103,4 @@
 	
 			1. Patient name is unique and also report name is unique.so you can give add patient name or number as report name.  
 			   There is two role as admin,operator for lab operators.
+@
