@@ -6,7 +6,7 @@
     -------------
 
 		This is Pathology Lab Reporting System based on PHP Codeigniter framework.
-		
+		you can watch swg files in wink folder.
 		
     How To Use (Overview)
     ---------------------
